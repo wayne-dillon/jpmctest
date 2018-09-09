@@ -1,0 +1,5 @@
+com\techtest\main\Main.class
+com\techtest\enums\Operation.class
+com\techtest\objects\Instruction.class
+com\techtest\stubs\InputStub.class
+com\techtest\enums\Currency.class
